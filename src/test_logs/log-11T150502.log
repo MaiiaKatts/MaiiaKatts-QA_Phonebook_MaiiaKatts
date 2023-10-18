@@ -1,0 +1,4 @@
+5511 [Test worker] INFO  com.ait.phonebook.TestBase -- Start test loginPositiveTest
+7341 [Test worker] INFO  com.ait.phonebook.TestBase -- PASSED: loginPositiveTest
+7342 [Test worker] INFO  com.ait.phonebook.TestBase -- Stop test
+7344 [Test worker] INFO  com.ait.phonebook.TestBase -- ************     ***********    *************

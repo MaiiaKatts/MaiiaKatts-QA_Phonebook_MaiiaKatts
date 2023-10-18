@@ -1,0 +1,52 @@
+2182 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/mvideo/Library/Caches/JetBrains/IntelliJIdea2023.2/temp-testng-customsuite.xml
+
+8289 [main] INFO  com.ait.phonebook.TestBase -- Start test loginPositiveTest with data: []
+10431 [main] INFO  com.ait.phonebook.TestBase -- PASSED: loginPositiveTest
+10431 [main] INFO  com.ait.phonebook.TestBase -- Stop test
+10432 [main] INFO  com.ait.phonebook.TestBase -- ************     ***********    *************
+10439 [main] INFO  com.ait.phonebook.TestBase -- Start test loginPositiveTestWithScreenCast with data: []
+39334 [main] INFO  com.ait.phonebook.TestBase -- PASSED: loginPositiveTestWithScreenCast
+39335 [main] INFO  com.ait.phonebook.TestBase -- Stop test
+39336 [main] INFO  com.ait.phonebook.TestBase -- ************     ***********    *************
+39342 [main] INFO  com.ait.phonebook.TestBase -- Start test isHomeComponentPresentTest with data: []
+56181 [main] INFO  com.ait.phonebook.TestBase -- Start test addNewContactPositiveFromDataProviderTest with data: [Olia, Kant, 1234567111, kant@gm.com, Bern, secretary]
+74589 [main] INFO  com.ait.phonebook.TestBase -- PASSED: addNewContactPositiveFromDataProviderTest
+74592 [main] INFO  com.ait.phonebook.TestBase -- Stop test
+74592 [main] INFO  com.ait.phonebook.TestBase -- ************     ***********    *************
+74595 [main] INFO  com.ait.phonebook.TestBase -- Start test addNewContactPositiveFromDataProviderTest with data: [Daniel, Adams, 1234564444, dams@gm.com, Basel, goalkeeper]
+92593 [main] INFO  com.ait.phonebook.TestBase -- PASSED: addNewContactPositiveFromDataProviderTest
+92593 [main] INFO  com.ait.phonebook.TestBase -- Stop test
+92594 [main] INFO  com.ait.phonebook.TestBase -- ************     ***********    *************
+92597 [main] INFO  com.ait.phonebook.TestBase -- Start test addNewContactPositiveFromDataProviderTest with data: [Amy, Karry, 1234555555, chily@gm.com, Berlin, singer]
+110179 [main] INFO  com.ait.phonebook.TestBase -- PASSED: addNewContactPositiveFromDataProviderTest
+110181 [main] INFO  com.ait.phonebook.TestBase -- Stop test
+110182 [main] INFO  com.ait.phonebook.TestBase -- ************     ***********    *************
+110188 [main] INFO  com.ait.phonebook.TestBase -- Start test addNewContactPositiveFromDataProviderWithCSVTest with data: [Contact{name='Short', address='Berlin'}]
+128036 [main] INFO  com.ait.phonebook.TestBase -- PASSED: addNewContactPositiveFromDataProviderWithCSVTest
+128038 [main] INFO  com.ait.phonebook.TestBase -- Stop test
+128038 [main] INFO  com.ait.phonebook.TestBase -- ************     ***********    *************
+128044 [main] INFO  com.ait.phonebook.TestBase -- Start test addNewContactPositiveFromDataProviderWithCSVTest with data: [Contact{name='Normal ', address='Basel'}]
+145706 [main] INFO  com.ait.phonebook.TestBase -- PASSED: addNewContactPositiveFromDataProviderWithCSVTest
+145707 [main] INFO  com.ait.phonebook.TestBase -- Stop test
+145708 [main] INFO  com.ait.phonebook.TestBase -- ************     ***********    *************
+145710 [main] INFO  com.ait.phonebook.TestBase -- Start test addNewContactPositiveFromDataProviderWithCSVTest with data: [Contact{name='Toolonnng', address='Born'}]
+163678 [main] INFO  com.ait.phonebook.TestBase -- PASSED: addNewContactPositiveFromDataProviderWithCSVTest
+163680 [main] INFO  com.ait.phonebook.TestBase -- Stop test
+163680 [main] INFO  com.ait.phonebook.TestBase -- ************     ***********    *************
+163684 [main] INFO  com.ait.phonebook.TestBase -- Start test addNewContactPositiveFromDataProviderWithCSVTest with data: [Contact{name='With-with', address='Zurich'}]
+181391 [main] INFO  com.ait.phonebook.TestBase -- PASSED: addNewContactPositiveFromDataProviderWithCSVTest
+181391 [main] INFO  com.ait.phonebook.TestBase -- Stop test
+181391 [main] INFO  com.ait.phonebook.TestBase -- ************     ***********    *************
+181393 [main] INFO  com.ait.phonebook.TestBase -- Start test addNewContactPositiveTest with data: []
+199136 [main] INFO  com.ait.phonebook.TestBase -- PASSED: addNewContactPositiveTest
+199138 [main] INFO  com.ait.phonebook.TestBase -- Stop test
+199138 [main] INFO  com.ait.phonebook.TestBase -- ************     ***********    *************
+199143 [main] INFO  com.ait.phonebook.TestBase -- Start test createExistedUserNegativeTest with data: []
+215386 [main] INFO  com.ait.phonebook.TestBase -- PASSED: createExistedUserNegativeTest
+215386 [main] INFO  com.ait.phonebook.TestBase -- Stop test
+215386 [main] INFO  com.ait.phonebook.TestBase -- ************     ***********    *************
+215389 [main] INFO  com.ait.phonebook.TestBase -- Start test removeContactPositiveTest with data: []
+235276 [main] INFO  com.ait.phonebook.TestBase -- PASSED: removeContactPositiveTest
+235278 [main] INFO  com.ait.phonebook.TestBase -- Stop test
+235278 [main] INFO  com.ait.phonebook.TestBase -- ************     ***********    *************

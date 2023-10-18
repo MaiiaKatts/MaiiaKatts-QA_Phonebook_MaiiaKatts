@@ -1,0 +1,7 @@
+1704 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/mvideo/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+7396 [main] INFO  com.ait.phonebook.TestBase -- Start test isHomeComponentPresentTest with data: []
+7503 [main] INFO  com.ait.phonebook.TestBase -- PASSED: isHomeComponentPresentTest
+7503 [main] INFO  com.ait.phonebook.TestBase -- Stop test
+7503 [main] INFO  com.ait.phonebook.TestBase -- ************     ***********    *************

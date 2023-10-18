@@ -1,0 +1,11 @@
+1672 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/mvideo/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+7889 [main] INFO  com.ait.phonebook.TestBase -- Start test loginPositiveTest with data: []
+10300 [main] INFO  com.ait.phonebook.TestBase -- PASSED: loginPositiveTest
+10301 [main] INFO  com.ait.phonebook.TestBase -- Stop test
+10301 [main] INFO  com.ait.phonebook.TestBase -- ************     ***********    *************
+10304 [main] INFO  com.ait.phonebook.TestBase -- Start test loginPositiveTestWithScreenCast with data: []
+61684 [main] INFO  com.ait.phonebook.TestBase -- PASSED: loginPositiveTestWithScreenCast
+61685 [main] INFO  com.ait.phonebook.TestBase -- Stop test
+61685 [main] INFO  com.ait.phonebook.TestBase -- ************     ***********    *************

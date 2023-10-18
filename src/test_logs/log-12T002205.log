@@ -1,0 +1,17 @@
+2196 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/mvideo/Library/Caches/JetBrains/IntelliJIdea2023.2/temp-testng-customsuite.xml
+
+8128 [main] INFO  com.ait.phonebook.TestBase -- Start test loginPositiveTest with data: []
+11302 [main] INFO  com.ait.phonebook.TestBase -- PASSED: loginPositiveTest
+11303 [main] INFO  com.ait.phonebook.TestBase -- Stop test
+11303 [main] INFO  com.ait.phonebook.TestBase -- ************     ***********    *************
+11307 [main] INFO  com.ait.phonebook.TestBase -- Start test loginPositiveTestWithScreenCast with data: []
+40524 [main] INFO  com.ait.phonebook.TestBase -- PASSED: loginPositiveTestWithScreenCast
+40524 [main] INFO  com.ait.phonebook.TestBase -- Stop test
+40524 [main] INFO  com.ait.phonebook.TestBase -- ************     ***********    *************
+40531 [main] INFO  com.ait.phonebook.TestBase -- Start test isHomeComponentPresentTest with data: []
+57033 [main] INFO  com.ait.phonebook.TestBase -- Start test addNewContactPositiveFromDataProviderTest with data: [Olia, Kant, 1234567111, kant@gm.com, Bern, secretary]
+75695 [main] INFO  com.ait.phonebook.TestBase -- PASSED: addNewContactPositiveFromDataProviderTest
+75696 [main] INFO  com.ait.phonebook.TestBase -- Stop test
+75696 [main] INFO  com.ait.phonebook.TestBase -- ************     ***********    *************
+75698 [main] INFO  com.ait.phonebook.TestBase -- Start test addNewContactPositiveFromDataProviderTest with data: [Daniel, Adams, 1234564444, dams@gm.com, Basel, goalkeeper]

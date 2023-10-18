@@ -1,0 +1,16 @@
+1605 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/mvideo/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+6117 [main] INFO  com.ait.phonebook.TestBase -- Start test addNewContactPositiveFromDataProviderTest with data: [Olia, Kant, 1234567111, kant@gm.com, Bern, secretary]
+11227 [main] INFO  com.ait.phonebook.TestBase -- PASSED: addNewContactPositiveFromDataProviderTest
+11228 [main] INFO  com.ait.phonebook.TestBase -- Stop test
+11228 [main] INFO  com.ait.phonebook.TestBase -- ************     ***********    *************
+11231 [main] INFO  com.ait.phonebook.TestBase -- Start test addNewContactPositiveFromDataProviderTest with data: [Daniel, Adams, 1234564444, dams@gm.com, Basel, goalkeeper]
+45852 [main] INFO  com.ait.phonebook.TestBase -- PASSED: addNewContactPositiveFromDataProviderTest
+45853 [main] INFO  com.ait.phonebook.TestBase -- Stop test
+45853 [main] INFO  com.ait.phonebook.TestBase -- ************     ***********    *************
+45856 [main] INFO  com.ait.phonebook.TestBase -- Start test addNewContactPositiveFromDataProviderTest with data: [Amy, Karry, 1234555555, chily@gm.com, Berlin, singer]
+80612 [main] INFO  com.ait.phonebook.TestBase -- PASSED: addNewContactPositiveFromDataProviderTest
+80612 [main] INFO  com.ait.phonebook.TestBase -- Stop test
+80613 [main] INFO  com.ait.phonebook.TestBase -- ************     ***********    *************
+80622 [main] INFO  com.ait.phonebook.TestBase -- Start test addNewContactPositiveFromDataProviderWithCSVTest with data: [Contact{name='Mia', address='Berlin'}]

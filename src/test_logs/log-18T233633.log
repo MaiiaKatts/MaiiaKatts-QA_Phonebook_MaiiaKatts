@@ -1,0 +1,7 @@
+1468 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/mvideo/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+6413 [main] INFO  com.ait.phonebook.TestBase -- Start test removeContactPositiveTest with data: []
+13264 [main] INFO  com.ait.phonebook.TestBase -- PASSED: removeContactPositiveTest
+13266 [main] INFO  com.ait.phonebook.TestBase -- Stop test
+13266 [main] INFO  com.ait.phonebook.TestBase -- ************     ***********    *************

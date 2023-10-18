@@ -1,0 +1,27 @@
+2544 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/mvideo/Library/Caches/JetBrains/IntelliJIdea2023.2/temp-testng-customsuite.xml
+
+8307 [main] INFO  com.ait.phonebook.TestBase -- Start test loginNegativeWithoutPasswordTest
+10803 [main] INFO  com.ait.phonebook.TestBase -- PASSED: loginNegativeWithoutPasswordTest
+10804 [main] INFO  com.ait.phonebook.TestBase -- Stop test
+10804 [main] INFO  com.ait.phonebook.TestBase -- ************     ***********    *************
+10814 [main] INFO  com.ait.phonebook.TestBase -- Start test loginPositiveTest
+12510 [main] INFO  com.ait.phonebook.TestBase -- PASSED: loginPositiveTest
+12510 [main] INFO  com.ait.phonebook.TestBase -- Stop test
+12511 [main] INFO  com.ait.phonebook.TestBase -- ************     ***********    *************
+12520 [main] INFO  com.ait.phonebook.TestBase -- Start test isHomeComponentPresentTest
+12818 [main] INFO  com.ait.phonebook.TestBase -- PASSED: isHomeComponentPresentTest
+12818 [main] INFO  com.ait.phonebook.TestBase -- Stop test
+12818 [main] INFO  com.ait.phonebook.TestBase -- ************     ***********    *************
+12823 [main] INFO  com.ait.phonebook.TestBase -- Start test addNewContactPositiveTest
+31241 [main] INFO  com.ait.phonebook.TestBase -- PASSED: addNewContactPositiveTest
+31243 [main] INFO  com.ait.phonebook.TestBase -- Stop test
+31244 [main] INFO  com.ait.phonebook.TestBase -- ************     ***********    *************
+31248 [main] INFO  com.ait.phonebook.TestBase -- Start test createExistedUserNegativeTest
+47774 [main] INFO  com.ait.phonebook.TestBase -- PASSED: createExistedUserNegativeTest
+47776 [main] INFO  com.ait.phonebook.TestBase -- Stop test
+47776 [main] INFO  com.ait.phonebook.TestBase -- ************     ***********    *************
+47779 [main] INFO  com.ait.phonebook.TestBase -- Start test removeContactPositiveTest
+53416 [main] INFO  com.ait.phonebook.TestBase -- PASSED: removeContactPositiveTest
+53417 [main] INFO  com.ait.phonebook.TestBase -- Stop test
+53417 [main] INFO  com.ait.phonebook.TestBase -- ************     ***********    *************

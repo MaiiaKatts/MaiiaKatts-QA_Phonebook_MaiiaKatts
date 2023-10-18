@@ -1,0 +1,7 @@
+2301 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/mvideo/Library/Caches/JetBrains/IntelliJIdea2023.2/temp-testng-customsuite.xml
+
+12001 [main] INFO  com.ait.phonebook.TestBase -- Start test loginPositiveTest with data: []
+14619 [main] INFO  com.ait.phonebook.TestBase -- PASSED: loginPositiveTest
+14619 [main] INFO  com.ait.phonebook.TestBase -- Stop test
+14619 [main] INFO  com.ait.phonebook.TestBase -- ************     ***********    *************

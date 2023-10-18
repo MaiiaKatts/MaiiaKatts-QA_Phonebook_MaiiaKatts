@@ -1,0 +1,4 @@
+1886 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/mvideo/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+14233 [main] INFO  com.ait.phonebook.TestBase -- Start test addNewContactPositiveTest with data: []
